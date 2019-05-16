@@ -1,2 +1,2 @@
 # hello-world
-first try at github
+Hey people, Shivam here, I am a electronics engineer and passionate about robotics and area related to that.
